@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064292968598",
+    "project_id": "fwapps-c18d4",
+    "storage_bucket": "fwapps-c18d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064292968598:android:afcb0fc728fe1f4a7cbab7",
+        "android_client_info": {
+          "package_name": "com.example.alhumiri_frist_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064292968598-qbih19fi847o3f5gor54rh72f7fu6g99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alhumiri_frist_project",
+            "certificate_hash": "c89495245690f39b7a8aca17b953055389dad8f3"
+          }
+        },
+        {
+          "client_id": "1064292968598-1grh6rscc6qj6rttedsdl26tts5t953q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrbGPWQos_pgf9cV3L65E23_xIfg7J4X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064292968598-1grh6rscc6qj6rttedsdl26tts5t953q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
